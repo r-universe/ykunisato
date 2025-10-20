@@ -5,6 +5,10 @@
 [submodule "PanicModel"]
 	path = PanicModel
 	url = jmbh/PanicModel
+[submodule "jpaRmd"]
+	path = jpaRmd
+	url = https://github.com/ykunisato/jpaRmd
+	registered = false
 [submodule "psyinfr"]
 	path = psyinfr
 	url = https://github.com/ykunisato/psyinfr
